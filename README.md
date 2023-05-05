@@ -14,7 +14,8 @@ https://tannernix.github.io/friendly-parakeet-challenge-3/
 Link to my github website:
 https://tannernix.github.io/friendly-parakeet-challenge-3/
 
-
+Screenshot:
+![picture of website screenshot](/friendly-parakeet-screenshot.png)
 
 ## Credits
 
