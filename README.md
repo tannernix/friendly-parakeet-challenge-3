@@ -9,6 +9,11 @@ For this third homework assignment I was to create a password generator by letti
 ## Usage
 
 Link to website:
+https://tannernix.github.io/friendly-parakeet-challenge-3/
+
+Link to my github website:
+https://tannernix.github.io/friendly-parakeet-challenge-3/
+
 
 
 ## Credits
